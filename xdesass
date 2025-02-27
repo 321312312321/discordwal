@@ -951,7 +951,7 @@
         margin: 0px;
     }
     #app-mount .typeWindows__421ed:after {
-        content: "Superkeys.net is top - Remember to attend to the support server.";
+        content: "Superkeys.net on TOP - Remember to attend to the support server.";
         color: rgb(255,255,255,0.5);
         font-weight: 500;
 
